@@ -17,6 +17,10 @@
 
       <style type="text/css">
 
+      body{
+        background-color: lightgrey;
+      }
+
       .float {
        float: left;
        padding-left: 200px;
@@ -24,11 +28,12 @@
        }
 
       .carre {
-        background-color: red;
+        background-color: white;
+        border-radius: 5px;
         width:110px;
         height:140px;
       }
-      
+
       </style>
 
       <!-- Logo -->
